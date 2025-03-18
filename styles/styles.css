@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+#background{
+    background-color: #155263;
+    color: white;
+}
+#font{
+    font-family: "Roboto", sans-serif;
+    font-size: 400%;
+    
+}
+#font01{
+    font-family: "EB Garamond", serif;
+    font-size: 400%;   
+}
+#font02{
+    font-family: "EB Garamond", serif;
+    font-size: 550%;
+}
+#font03{
+    font-family: "EB Garamond", serif;
+    font-size: 400%;   
+}
+#font04{
+    font-family: "Roboto", sans-serif;
+    font-size: 200%;
+}
+#background01{
+    background-color: aliceblue;
+    color: black;
+    margin: 10px;
+    padding : 1000px, 80px,100px,60px;
+    width: 1200px;
+    height:600px;
+    margin:auto;
+   content-visibility: auto;
+}
+#box01{
+    margin: 20px;
+    padding : 1000px, 80px,100px,60px;
+    background-color:#f9b577;
+    width: 400px;
+    height: 200px;
+}
+#box02{
+    margin: 20px;
+    padding : 1000px, 80px,100px,60px;
+    background-color:#f9b577;
+    width: 400px;
+    height: 200px;
+}
+#box03{
+    margin: 20px;
+    padding : 1000px, 80px,100px,60px;
+    background-color:#f9b577;
+    width: 400px;
+    height: 200px;
+}
+
+#button{
+    border-radius: 10px;
+    margin: 8px;
+    padding: 15px;
+    background-color: orange;
+    color: white;
+}
+#img01{
+    margin: 20px;
+    border-radius: 10px;
+}
+#img02{
+    margin: 20px;
+    border-radius: 10px;
+}
+#img03{
+    margin: 20px;
+    border-radius: 10px;
+}
+#video01{
+    border-radius: 20px;
+}
